@@ -4,6 +4,8 @@ This project shows a simple example of how **Breadth-First Search (BFS)** works 
 
 The goal is to transform an initial list into a target list by swapping elements.
 
+<img width="845" height="335" alt="image" src="https://github.com/user-attachments/assets/dc0f1882-fc72-44e8-8dee-bd675af614ee" />
+
 ---
 
 ## 🧠 What is BFS?
